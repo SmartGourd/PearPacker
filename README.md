@@ -6,11 +6,11 @@ Average 300 answered questions per day!
 https://smartgourd.github.io/PearPacker/
 
 ## Demand for student tools confirmed!
-This recently launched Czech app was at least according to their Instagram reels able to get 3000 registered students before launch.
-And from those around 300 bough the application subscription for 199 Czech crowns per month.
-Their main focus is on uploading pdf and making it interactive with chating with it and making flashcards and some questions too.
-https://www.instagram.com/studyfi.app/
-Its amazing that such a high demand has been confirmed for something very similar and we are working to capture this market too.
+This recently launched Czech app was at least according to their Instagram reels able to get 3000 registered students before launch.  
+And from those around 300 bough the application subscription for 199 Czech crowns per month.  
+Their main focus is on uploading pdf and making it interactive with chating with it and making flashcards and some questions too.  
+https://www.instagram.com/studyfi.app/  
+Its amazing that such a high demand has been confirmed for something very similar and we are working to capture this market too.  
 
 
 ## Press release
