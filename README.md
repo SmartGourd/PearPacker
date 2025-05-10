@@ -1,4 +1,5 @@
 ## Traction
+Average 300 answered questions per day!
 ![Traction Image](traction.png)
 
 ## Press release
