@@ -1,4 +1,7 @@
+## Traction
 ![Traction Image](traction.png)
+
+## Press release
 
 PRAGUE, March 17, 2025 – Today, at the Faculty of Mathematics and Physics, Charles University, the launch of PearPacker, an innovative platform designed to revolutionize how companies connect with top student talent, was announced. By leveraging cutting-edge AI technologies, PearPacker offers businesses a powerful tool to efficiently identify and engage with ideal candidates, while also providing students with valuable resources to enhance their learning and professional development.
 
