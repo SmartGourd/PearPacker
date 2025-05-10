@@ -2,6 +2,9 @@
 Average 300 answered questions per day!
 ![Traction Image](traction.png)
 
+## Visit our demo
+https://smartgourd.github.io/PearPacker/
+
 ## Demand for student tools confirmed!
 This recently launched Czech app was at least according to their Instagram reels able to get 3000 registered students before launch.
 And from those around 300 bough the application subscription for 199 Czech crowns per month.
